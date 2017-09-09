@@ -10,3 +10,13 @@ var Fish = Backbone.Model.extend({
   }
 
 });
+var toggleDescription = function() {
+	<tr onClick = () {
+		if(model.defaults.description === on) {
+					retun "model.defaults.description =off"
+		}else{
+			retun "model.defaults.description = on"
+		}
+
+		}
+	}</tr>
